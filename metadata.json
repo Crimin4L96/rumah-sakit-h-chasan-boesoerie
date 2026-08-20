@@ -1,0 +1,6 @@
+{
+  "name": "RSUD Ch. Boesoerie",
+  "description": "Portal Layanan Kesehatan & Informasi Resmi RSUD Ch. Boesoerie Provinsi Maluku Utara",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
